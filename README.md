@@ -12,8 +12,8 @@
 
 <br/>
 
-<a href="https://github.com/blessen5">
-  <img src="https://img.shields.io/badge/GitHub-blessen5-24292e?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+<a href="https://github.com/Blessen-P-Shaju">
+  <img src="https://img.shields.io/badge/GitHub-Blessen--P--Shaju-24292e?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/blessen-p-shaju/">
@@ -33,7 +33,7 @@
 - Pursuing **MSc Computer Science (Data Analytics)** — focused on understanding data, systems, and how software is built.
 - Interested in **Data Analytics**, computer networks, and how information flows through systems.
 - Exploring **Linux**, **Cloud Computing**, **Docker**, and DevOps practices as part of my learning path.
-- Building small, practical projects to reinforce what I study — learning by doing is my approach.
+- Building practical projects to reinforce what I study — learning by doing is my approach.
 - Always looking to improve my foundations and try new tools and technologies.
 
 ---
@@ -44,8 +44,10 @@
 
 ![C](https://img.shields.io/badge/C-00599c?style=flat-square&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479a1?style=flat-square&logo=mysql&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479a1?style=flat-square&logo=mysql&logoColor=white)
 
 **Databases**
 
@@ -72,17 +74,17 @@
 
 <div align="center">
 
-<a href="https://github.com/blessen5">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=blessen5&show_icons=true&hide_border=true&title_color=1a1a2e&icon_color=2563eb&text_color=374151&bg_color=ffffff&include_all_commits=true&count_private=true" alt="Blessen's GitHub Stats" />
+<a href="https://github.com/Blessen-P-Shaju">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Blessen-P-Shaju&show_icons=true&hide_border=true&title_color=1a1a2e&icon_color=2563eb&text_color=374151&bg_color=ffffff&include_all_commits=true&count_private=true" alt="Blessen's GitHub Stats" />
 </a>
 &nbsp;
-<a href="https://github.com/blessen5">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blessen5&layout=compact&hide_border=true&title_color=1a1a2e&text_color=374151&bg_color=ffffff&langs_count=6" alt="Most Used Languages" />
+<a href="https://github.com/Blessen-P-Shaju">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blessen-P-Shaju&layout=compact&hide_border=true&title_color=1a1a2e&text_color=374151&bg_color=ffffff&langs_count=6" alt="Most Used Languages" />
 </a>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=blessen5&hide_border=true&ring=2563eb&fire=2563eb&currStreakLabel=1a1a2e&sideLabels=374151&dates=6b7280&background=ffffff" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=Blessen-P-Shaju&hide_border=true&ring=2563eb&fire=2563eb&currStreakLabel=1a1a2e&sideLabels=374151&dates=6b7280&background=ffffff" alt="GitHub Streak" />
 
 </div>
 
@@ -92,13 +94,13 @@
 
 ## Featured Projects
 
-> Update this section with links to your actual repositories on [github.com/blessen5](https://github.com/blessen5).
-
 | Repository | Description | Stack |
 |:---|:---|:---|
-| _Add your project_ | Short, honest description of what it does | C / Python / SQL |
-| _Add your project_ | Short, honest description of what it does | PostgreSQL / TypeScript |
-| _Add your project_ | Short, honest description of what it does | Linux / Shell / Docker |
+| [aipesticide](https://github.com/Blessen-P-Shaju/aipesticide) | Smartphone-assisted prescription mapping & precision spraying system — reduces pesticide usage using AI and GPS | TypeScript, AI, IoT |
+| [rigmaster-ai](https://github.com/Blessen-P-Shaju/rigmaster-ai) | AI-powered PC building, compatibility verification, and hardware optimization engine | HTML, JavaScript, AI |
+| [job-analysis](https://github.com/Blessen-P-Shaju/job-analysis) | Data analysis project exploring job market trends and patterns | Python |
+| [LARS](https://github.com/Blessen-P-Shaju/LARS) | Lab Activity Reporting System — a web app for managing and reporting lab activities | PHP |
+| [tq-json-diff](https://github.com/Blessen-P-Shaju/tq-json-diff) | A lightweight CLI tool for comparing and diffing JSON structures | Go |
 
 ---
 
@@ -118,7 +120,7 @@ Right now I'm working on strengthening my foundations in **data analytics**, **n
 
 | Platform | Link |
 |:---:|:---|
-| GitHub | [github.com/blessen5](https://github.com/blessen5) |
+| GitHub | [github.com/Blessen-P-Shaju](https://github.com/Blessen-P-Shaju) |
 | LinkedIn | [linkedin.com/in/blessen-p-shaju](https://www.linkedin.com/in/blessen-p-shaju/) |
 | Email | [blessenpshaju@gmail.com](mailto:blessenpshaju@gmail.com) |
 
@@ -132,6 +134,6 @@ Right now I'm working on strengthening my foundations in **data analytics**, **n
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=blessen5&label=Profile+Views&color=2563eb&style=flat-square" alt="Profile view counter" />
+<img src="https://komarev.com/ghpvc/?username=Blessen-P-Shaju&label=Profile+Views&color=2563eb&style=flat-square" alt="Profile view counter" />
 
 </div>
