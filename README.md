@@ -8,13 +8,29 @@
 
 # Blessen P Shaju
 
-MSc Computer Science (Data Analytics) · Interested in data, software, and cloud.
+</div>
 
-<br/>
+---
+
+## About Me
+
+I am an **MSc Computer Science (Data Analytics)** student passionate about data analytics, software development, Linux, and cloud computing. I enjoy building practical projects, exploring modern databases and developer tools, and learning by doing.
+
+---
+
+## Skills
+
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=py,ts,js,html,css,c,cpp,go,php,fastapi,postgres,mysql,linux,bash,docker,git,github,githubactions,gcp,vscode,postman&perline=11" alt="Skills" />
 
-<br/><br/>
+</div>
+
+---
+
+## Connect
+
+<div align="center">
 
 <a href="https://github.com/Blessen-P-Shaju">
   <img src="https://img.shields.io/badge/GitHub-Blessen--P--Shaju-24292e?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
