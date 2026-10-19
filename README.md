@@ -12,7 +12,7 @@ MSc Computer Science (Data Analytics) · Interested in data, software, and cloud
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=c,py,ts,go,php,postgres,docker,linux,git,gcp,vscode" alt="Skills" />
+<img src="https://skillicons.dev/icons?i=py,ts,js,html,css,c,cpp,go,php,fastapi,postgres,mysql,linux,bash,docker,git,github,githubactions,gcp,vscode,postman&perline=11" alt="Skills" />
 
 <br/><br/>
 
