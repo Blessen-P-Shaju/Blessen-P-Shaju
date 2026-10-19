@@ -38,37 +38,18 @@ My work spans from exploratory data analysis and insight extraction to designing
 
 ---
 
-## 🛠️ Skills & Technologies
+##  My Skills
 
-### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=py,java,c,cpp,js,go,php,bash" alt="Languages" />
-</p>
-
-### Frontend & Frameworks
-<p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite,nodejs,npm,fastapi" alt="Frontend & Frameworks" />
-</p>
-
-### Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase" alt="Databases" />
-</p>
-
-### Data & ML Libraries
-<p>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,react,vite,html,css,tailwind,go,php,postgres,mysql,mongodb,fastapi,docker,linux,ubuntu,gcp,git,gitlab,githubactions,vercel,vscode,bash,ai,nodejs,npm,opencv,powershell,linkedin,supabase" alt="My Skills" />
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="48" height="48" title="Pandas" />
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="48" height="48" title="NumPy" />
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="48" height="48" title="Matplotlib" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=opencv,ai" alt="OpenCV & AI" />
-</p>
-
-### DevOps & Cloud
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,gcp,linux,ubuntu,git,gitlab,githubactions,vercel,powershell,vscode" alt="DevOps & Cloud" />
+  </a>
 </p>
 
 ---
